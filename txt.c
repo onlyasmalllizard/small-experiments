@@ -4,7 +4,7 @@
 int main(int argc, char *argv[]) {
 
     if(argc != 2) {
-        fprintf(stderr, "Usage: infile\n");
+        fprintf(stderr, "Usage: file\n");
         return 1;
     }
 
